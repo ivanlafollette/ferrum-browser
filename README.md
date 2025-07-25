@@ -1,6 +1,6 @@
 # 🧠 Ferrum Browser
 
-Ferrum (codename “VibeNav”) is a security‑first, minimalist browser built in Rust with native AI agents and modular expansion. Born from TeamInnovationAI, it blends Rust performance with Supabase‑backed session management and Cephy‑powered intelligence.
+Ferrum is a security‑first, minimalist browser built in Rust with native AI agents and modular expansion. Born from TeamInnovationAI, it blends Rust performance with Supabase‑backed session management and Cephy‑powered intelligence.
 
 ## 🚀 Features
 
