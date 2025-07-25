@@ -1,6 +1,6 @@
-# 🧠 VibeNav: AI-Enhanced Rust Browser
+# 🧠 Ferrum: AI-Enhanced Rust Browser
 
-**VibeNav** is a security-first, minimalist browser built in Rust with native AI agents and modular expansion. Born from TeamInnovationAI, it’s the codename for Ivan’s MVP vision of blending Rust, Supabase, and Cephy-powered intelligence.
+**Ferrum** is a security-first, minimalist browser built in Rust with native AI agents and modular expansion. Born from TeamInnovationAI, it’s the codename for Ivan’s MVP vision of blending Rust, Supabase, and Cephy-powered intelligence.
 
 ## 🚀 Features
 - 🧭 Tabbed browsing with dark mode
