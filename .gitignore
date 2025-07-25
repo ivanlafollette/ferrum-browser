@@ -1,0 +1,28 @@
+# Rust build artifacts and intermediate files
+/target
+**/*.rs.bk
+
+# Tauri build output
+/src-tauri/target
+/src-tauri/bundles
+/src-tauri/.package-info.json
+
+# Node modules and build artifacts
+node_modules/
+dist/
+build/
+public/build
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editors and OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+logs/
