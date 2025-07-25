@@ -1,4 +1,5 @@
 # 🧠 Ferrum Browser
+NOTE: This project is currently in DEVELOPMENT.
 
 Ferrum is a security‑first, minimalist browser built in Rust with native AI agents and modular expansion. Born from TeamInnovationAI, it blends Rust performance with Supabase‑backed session management and Cephy‑powered intelligence.
 
