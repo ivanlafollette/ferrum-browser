@@ -1,0 +1,22 @@
+[package]
+name = "ferrum"
+version = "0.1.0"
+edition = "2021"
+authors = ["TeamInnovationAI"]
+description = "Ferrum – AI‑enhanced Rust browser MVP"
+license = "MIT"
+publish = false
+
+[dependencies]
+# Core Tauri dependency that provides the application runtime and API access.
+tauri = { version = "1.5", features = ["api-all"] }
+
+# Serialization support for communicating between the frontend and backend.
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+# Tokio provides async runtimes used by some Tauri APIs and future agent modules.
+tokio = { version = "1.32", features = ["full"] }
+
+[build-dependencies]
+tauri-build = "1.5"
